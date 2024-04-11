@@ -188,7 +188,7 @@ body {
   /* Adjust layout for mobile screens */
   @media only screen and (max-width: 480px) {
     .image-container {
-      flex-basis: calc(40% - 20px); /* Adjust the width for mobile screens */
+      flex-basis: calc(100% - 20px); /* Adjust the width for mobile screens */
     }
   }
   
