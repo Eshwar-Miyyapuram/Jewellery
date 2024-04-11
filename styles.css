@@ -167,6 +167,8 @@ body {
   .footer-left p,
   .footer-right p {
     margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   
   .close:hover,
