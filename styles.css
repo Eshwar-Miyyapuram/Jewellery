@@ -198,6 +198,10 @@ body {
       align-items: center;
       text-align: center;
     }
+
+    .header-font{
+        width: auto;
+    }
   
     .header-left {
       margin-bottom: 10px;
